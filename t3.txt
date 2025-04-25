@@ -1,0 +1,4 @@
+3
+(\wedge p1 p2)
+(\vee true false)
+(\rightarrow (\neg p1) (\wedge p2 p3))

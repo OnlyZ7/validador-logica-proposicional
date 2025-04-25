@@ -1,0 +1,5 @@
+4
+(\neg true)
+(\neg p1)
+(\neg)
+(\neg 123)
